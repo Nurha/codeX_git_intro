@@ -1,1 +1,3 @@
 Breathing exercises
+
+Types:
